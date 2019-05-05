@@ -1,6 +1,6 @@
 # welcome bot: A Probot App
 
-This is a new app lets edit
+This is a new app lets edit, im edinting locally and committing it
 
 ## What it does
 
